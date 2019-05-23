@@ -1,4 +1,6 @@
-Repository of my projects made for the Nanodegree course in Engineering of Machine Learning of Udacity.
+# Udacity - Nanodegree Machine Learning Engineer
+
+Repository of my projects made for the Nanodegree course in Machine Learning Engineering of [Udacity](https://udacity.com).
 
 [boston_housing](boston_housing/) : Project on supervised learning. The main propose is to predict the best sell price to a house on Boston city using regression algorithms.
 
